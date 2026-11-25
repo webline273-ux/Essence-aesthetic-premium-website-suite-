@@ -1,0 +1,6 @@
+{
+  "name": "Essence Aesthetics Clinic",
+  "description": "Essence Aesthetics Clinic in DHA Phase II, Islamabad — personalized aesthetic care, microneedling, and laser hair removal consultations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
